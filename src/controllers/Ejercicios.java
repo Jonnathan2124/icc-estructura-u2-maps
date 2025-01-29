@@ -50,4 +50,5 @@ public class Ejercicios {
     public int[] sumatoriaDeDos(int[] nums, int objetivo) {
         throw new UnsupportedOperationException("Not implemented yet");
     }
+    
 }
